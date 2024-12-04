@@ -1,7 +1,8 @@
-import logo from './logo.svg';
+import logo from './logo.svg'; // Import statement
 import './App.css';
 
-function App() {
+function App() { // component is a funciont that returns u a HTML like syntax called JSX ( javascript xml language ) ( HTML like syntax ) 
+
   return (
     <div className="App">
       <header className="App-header">
