@@ -1,9 +1,9 @@
 import React from "react";
 // RAFCE short key for genrating this code
-// const MyComponent = (obj)=> {
-//   return (
-//     <div>MyComponent {obj.name}, {obj.age}, {obj.gender}</div>
-//   )
+  // const MyComponent = (obj)=> {
+  //   return (
+      //     <div>MyComponent {obj.name}, {obj.age}, {obj.gender}</div>
+      //   )
 // }
 const MyComponent = ({ name, age, gender }) => {
   /* curly braces are used for de-structuring */
