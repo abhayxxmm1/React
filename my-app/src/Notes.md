@@ -35,4 +35,9 @@ function
 
 // Their are two types of export
 // export default (max 1) & another is normal export 
+
+//  React is syncrhonous
+
+// console.log are the best debuggers
+
 ```
