@@ -14,6 +14,8 @@ const JsxRule3 = () => {
     //     </React.Fragment>
     // </>
     <>
+      <h1>-------------JaxRule3-----------------</h1>
+
     
                 <h1>Heading</h1>
                 <h1>Heading</h1>

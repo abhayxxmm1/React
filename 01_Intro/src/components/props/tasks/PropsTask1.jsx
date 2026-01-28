@@ -27,7 +27,7 @@ const PropsTask1 = () => {
         PT1
                                                                       
       <PropsTask1child num1 num2 num3={20}/>
-      
+        
     </div>
   )
 }

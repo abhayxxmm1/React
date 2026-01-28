@@ -13,12 +13,12 @@ let App = ()=>{
       <h1>App</h1>
     {/* <Intro/> */}
     {/* <StateIntro/> */}
-    {/* <PropsInto/> */} {/* need to clear  */}
-    {/* <JsxIntroo/> */}
+    {/* <PropsInto/> */}
+    <JsxIntroo/>
     {/* <MapIntro/> */}
     {/* <BootIntroo/> */}
-    <TailWIntro/>
-    <EventIntro/>
+    {/* <TailWIntro/> */}
+    {/* <EventIntro/> */}
    
 
     </div>
