@@ -1,32 +1,9 @@
 import React from "react";
-import LoginPage from "./components/LoginPage";
-import Home from "./components/Home";
+import { RouterProvider } from "react-router-dom";
 import { routes } from "./controllers/AppRoutes";
 
 const App = () => {
-  // let routes = createBrowserRouter([
-  //   {
-  //     path: "/",
-  //     element: <LoginPage />,
-  //   },
-  //   {
-  //     path: "/home",
-  //     element: <Home />,
-  //   },
-  //   {
-  //     path : "/about",
-  //     element : <About />
-  //   },
-  // ]);
-
-
-
-
-  
-  return (
-    <RouterProvider router={routes}>
-    </RouterProvider>
-  );
+  return <RouterProvider router={routes} />;
 };
 
 export default App;
