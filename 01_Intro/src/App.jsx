@@ -35,8 +35,8 @@
 
 // export default App;
 
-//! routes
 
+//! routes
 //   const routes = createBrowserRouter([
 //     {
 //       path: "/",
@@ -105,3 +105,24 @@ const App = () => {
 };
 
 export default App;
+
+
+
+//! Redux Toolkit Understanding
+// import React from 'react'
+
+// const App = () => {
+//   let dispatch = useDispatch();
+//   let data = useSelector((state)=>{
+//     // console.log(state);
+//     return state;
+//   })
+//   return (
+//     <div>
+//       {data}
+//       <button onClick={()=>{dispatch {add()}}}>Inc</button>
+//     </div>
+//   )
+// }
+
+// export default App
